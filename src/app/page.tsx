@@ -315,7 +315,7 @@ export default function BarberShop() {
         
         {/* Conteúdo Hero */}
         <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
-          <h1 className="font-serif text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-bold mb-8 tracking-tight leading-none">
+          <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 tracking-widest leading-none">
             Sua Estética,<br />
             <span className="text-[#D4AF37]">Nossa Excelência</span>
           </h1>
